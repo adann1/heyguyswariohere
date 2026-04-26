@@ -9,7 +9,7 @@ layout: default
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="250"/>
 
 ## Background
 Suggestion: Some examples should be pulled from professors'/TAs' projects because the content better represents real-world applications and would engage students who happen to be interested in the instructor's field.
@@ -33,9 +33,7 @@ Figure 1a shows that math-related majors have possibly more interest than non-ma
 
 Figure 2a and 2b. Box and whiskers plots comparing levels of interest for math- and non-math-related majors
 
-<img src="static/imgs/figure2a.png" alt="right now i wanna show you my living rooOm"  width="300"/>
-
-<img src="static/imgs/figure2b.png" alt="or my hallway oh my goodness my stomach"  width="300"/>
+<img src="static/imgs/figure2a.png" alt="right now i wanna show you my living rooOm"  width="300"/> <img src="static/imgs/figure2b.png" alt="or my hallway oh my goodness my stomach"  width="300"/>
 
 Figure 2a shows that math-related majors have a higher level of interest than non-math-related majors (higher median and third quartile).
 Figure 2b shows that math-related majors are more likely to report higher-levels of major-related interest (similar medians but tighter spread of data with higher scores).
