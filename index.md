@@ -3,7 +3,8 @@
 layout: default
 ---
 
-# Yo, what's up Diggity Dawgs. I just made a mess in the other room. Here is the mess
+# Promoting Interest in COMP-110
+<!-- # Yo, what's up Diggity Dawgs. I just made a mess in the other room. Here is the mess -->
 
 
 
@@ -26,17 +27,15 @@ We imported the student surveys, converted the "interesting" and "interested_con
 Next, we visualized the data:
 Figure 1a and 1b. Bar graphs showing whether having a math-related major significantly impacts the levels of interest
 
-<img src="static/imgs/figure1a.png" alt="hey guys wario here"  width="500"/>
-
-<img src="static/imgs/figure1b.png" alt="and we're on part four and"  width="500"/>
+<img src="static/imgs/figure1a.png" alt="hey guys wario here"  width="300"/> <img src="static/imgs/figure1b.png" alt="and we're on part four and"  width="300"/>
 
 Figure 1a shows that math-related majors have possibly more interest than non-math-related majors. Figure 1b shows that non-math-related majors have less interest in connections to their field, as shown by the significantly different bars.
 
 Figure 2a and 2b. Box and whiskers plots comparing levels of interest for math- and non-math-related majors
 
-<img src="static/imgs/figure2a.png" alt="right now i wanna show you my living rooOm"  width="500"/>
+<img src="static/imgs/figure2a.png" alt="right now i wanna show you my living rooOm"  width="300"/>
 
-<img src="static/imgs/figure2b.png" alt="or my hallway oh my goodness my stomach"  width="500"/>
+<img src="static/imgs/figure2b.png" alt="or my hallway oh my goodness my stomach"  width="300"/>
 
 Figure 2a shows that math-related majors have a higher level of interest than non-math-related majors (higher median and third quartile).
 Figure 2b shows that math-related majors are more likely to report higher-levels of major-related interest (similar medians but tighter spread of data with higher scores).
@@ -56,4 +55,6 @@ There is a positive correlation between major-related interest and overall cours
 
 
 
-This is basic paragraph text.
+This is basic paragraph text. :3
+HAOOY BIRTHDAY TO ONE OF THE 12334124 TAs
+- Your President, Donald J. Trump
