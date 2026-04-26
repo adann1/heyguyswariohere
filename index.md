@@ -8,7 +8,7 @@ layout: default
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="adann1.github.io/heyguyswariohere/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="adann1.github.io/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Background
 Suggestion: Some examples should be pulled from professors'/TAs' projects because the content better represents real-world applications and would engage students who happen to be interested in the instructor's field.
@@ -26,7 +26,7 @@ We imported the student surveys, converted the "interesting" and "interested_con
 Next, we visualized the data:
 Figure 1a and 1b. Bar graphs showing whether having a math-related major significantly impacts the levels of interest
 
-<img src="adann1.github.io/heyguyswariohere/static/imgs/figure1a.png" alt="hey guys wario here"  width="500"/>
+<img src="static/imgs/figure1a.png" alt="hey guys wario here"  width="500"/>
 
 <img src="adann1.github.io/heyguyswariohere/static/imgs/figure1b.png" alt="and we're on part four and"  width="500"/>
 
